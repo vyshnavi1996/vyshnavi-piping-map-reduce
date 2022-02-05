@@ -9,4 +9,6 @@
 - By checking the final ouput I have reduced based on the countries and covid_19 Death casesz.
 ## Charts : 
 - I have decided to draw a bar chart based on countries and covid19_Death cases.
+![Image_1](/images/Chart.PNG)
 - I have decide to draw an bar chart based on countries and covid19_Death cases with Highest cases in which country it is occured.
+![Image_2](/images/Chart1.PNG)
