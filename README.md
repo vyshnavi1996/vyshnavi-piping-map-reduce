@@ -4,6 +4,7 @@
 - I used data from kaggle website (https://www.kaggle.com/majyhain/death-cause-by-country) Based on Death Cause Reason by Each country.
 - The dataset contains 9 columns and 188 rows contains the death causes by All Countires.
 # Powershell Command:
+- cat Death_Reason_by_Country.csv | py 21mapper.py >  a.txt
 - cat Death_Reason_by_Country.csv | py 21mapper.py | sort | py 22reducer.py > Tadipanenioutput.txt 
 # Summary Of Data
 - By checking the final ouput I have reduced based on the countries and covid_19 Death cases.
